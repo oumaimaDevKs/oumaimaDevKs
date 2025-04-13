@@ -27,11 +27,8 @@ I'm excited to combine my design skills with coding to build beautiful and funct
 
 - **Languages:** JavaScript, HTML5, CSS3  
 - **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS  
-- **Design Tools:** Adobe Photoshop, Illustrator, Figma  
-- **Other Tools:** Git, GitHub, Netlify, VS Code  
-
+- **Design Tools:** Adobe Photoshop, Illustrator, Figma   
 ---
-
 
 ## Fun Fact
 
