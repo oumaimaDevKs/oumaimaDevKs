@@ -1,7 +1,6 @@
 # 🎀 Hi there, I'm Oumaima
 
- a Web Development and Graphic Design student.  
-I'm passionate about digital creation and learning new technologies.  
+I'm a Web Development and Graphic Design student. I'm passionate about digital creation and learning new technologies.  
 I'm excited to combine my design skills with coding to build beautiful and functional websites.
 
 ---
@@ -36,14 +35,12 @@ I'm excited to combine my design skills with coding to build beautiful and funct
 
 ## Fun Fact
 
-I'm always experimenting with new design techniques and web development frameworks.  
-I love turning creative ideas into functional, user-friendly websites.  
-Whether it's learning a new coding language or exploring the latest design trends,  
-I'm always excited to expand my skills and push my boundaries!
+I'm always experimenting with new design techniques and web development frameworks. I love turning creative ideas into functional, user-friendly websites.  
+Whether it's learning a new coding language or exploring the latest design trends, I'm always excited to expand my skills and push my boundaries!
 
 ---
 
-✨ Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas.  
+✨ Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas.✨ 
 
 
 ## 🌐 Socials:
