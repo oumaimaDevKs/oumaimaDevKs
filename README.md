@@ -1,33 +1,18 @@
-# Hi there, I'm Oumaima 🎀
-
-I'm a **Web Development** and **Graphic Design** student, passionate about **digital creation** and learning new technologies. I'm excited to combine my design skills with coding to build beautiful and functional websites.
-
-## What I’m learning:
-- **JavaScript** – Currently diving into front-end development
-- **HTML/CSS** – Working on creating responsive, user-friendly designs
-- **Graphic Design Tools** – Exploring Illustrator, Photoshop, and more
-- **Web Development Frameworks** – Learning about React.js and tailwind css
-
-## Currently working on:
-- Building and deploying websites with modern tools
-- Developing a personal portfolio to showcase my projects
-- Improving my front-end development skills with projects that combine design and code
-
-## Technologies & Tools:
-- **Languages:** JavaScript, HTML, CSS
-- **Design Tools:** Adobe Photoshop, Illustrator
-- **Frameworks/Libraries:** React, Bootstrap, Tailwind CSS
-
-## How to reach me:
--  [LinkedIn](https://www.linkedin.com/in/kadous-oumaima-b083a0336/)
--  [Instagram](https://www.instagram.com/ouma2m_a_ks/#)
+# 💫 About Me:
+Hi there, I'm Oumaima 🎀<br>I'm a Web Development and Graphic Design student, passionate about digital creation and learning new technologies. I'm excited to combine my design skills with coding to build beautiful and functional websites.<br><br>What I’m learning:<br>JavaScript – Currently diving into front-end development<br>HTML/CSS – Working on creating responsive, user-friendly designs<br>Graphic Design Tools – Exploring Illustrator, Photoshop, and more<br>Web Development Frameworks – Learning about React.js and tailwind css<br>Currently working on:<br>Building and deploying websites with modern tools<br>Developing a personal portfolio to showcase my projects<br>Improving my front-end development skills with projects that combine design and code<br>Technologies & Tools:<br>Languages: JavaScript, HTML, CSS<br>Design Tools: Adobe Photoshop, Illustrator<br>Frameworks/Libraries: React, Bootstrap, Tailwind CSS<br>How to reach me:<br>LinkedIn<br>Instagram<br>Fun Fact:<br>I'm always experimenting with new design techniques and web development frameworks. I enjoy the challenge of turning creative ideas into functional, user-friendly websites. Whether it's learning a new coding language or exploring a fresh design trend, I’m always excited to expand my skills and push my boundaries!<br><br>Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas! Let’s create something amazing together! ✨
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ouma2m_a_ks/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kadous-oumaima-b083a0336/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oumaima.ks06@gmail.com) 
 
-## Fun Fact:
-I'm always experimenting with new design techniques and web development frameworks. I enjoy the challenge of turning creative ideas into functional, user-friendly websites. Whether it's learning a new coding language or exploring a fresh design trend, I’m always excited to expand my skills and push my boundaries!
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oumaimaDevKs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=oumaimaDevKs&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaimaDevKs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=oumaimaDevKs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas! Let’s create something amazing together! ✨
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
