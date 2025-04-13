@@ -1,8 +1,49 @@
-# 👋 Hello, I'm Oumaima!
-Hi there, I'm Oumaima 🎀
-I'm a Web Development and Graphic Design student, passionate about digital creation and learning new technologies. I'm excited to combine my design skills with coding to build beautiful and functional websites.<br><br>
- ## 🚀 What I'm learning <br>
-JavaScript – Currently diving into front-end development<br>HTML/CSS – Working on creating responsive, user-friendly designs<br>Graphic Design Tools – Exploring Illustrator, Photoshop, and more<br>Web Development Frameworks – Learning about React.js and tailwind css<br>Currently working on:<br>Building and deploying websites with modern tools<br>Developing a personal portfolio to showcase my projects<br>Improving my front-end development skills with projects that combine design and code<br>Technologies & Tools:<br>Languages: JavaScript, HTML, CSS<br>Design Tools: Adobe Photoshop, Illustrator<br>Frameworks/Libraries: React, Bootstrap, Tailwind CSS<br>How to reach me:<br>LinkedIn<br>Instagram<br>Fun Fact:<br>I'm always experimenting with new design techniques and web development frameworks. I enjoy the challenge of turning creative ideas into functional, user-friendly websites. Whether it's learning a new coding language or exploring a fresh design trend, I’m always excited to expand my skills and push my boundaries!<br><br>Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas! Let’s create something amazing together! ✨
+# 🎀 Hi there, I'm Oumaima
+
+ a Web Development and Graphic Design student.  
+I'm passionate about digital creation and learning new technologies.  
+I'm excited to combine my design skills with coding to build beautiful and functional websites.
+
+---
+
+## What I'm Learning
+
+ – Currently diving into front-end development  
+ – Creating responsive, user-friendly designs  
+ – Exploring Illustrator, Photoshop, and more  
+ – Learning React.js and Tailwind CSS  
+
+---
+
+## Currently Working On
+
+- Building and deploying websites using modern tools  
+- Developing a personal portfolio to showcase my projects  
+- Improving my front-end development skills with real-world projects  
+- Combining code and design to create unique digital experiences
+
+---
+
+## Tools
+
+- **Languages:** JavaScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS  
+- **Design Tools:** Adobe Photoshop, Illustrator, Figma  
+- **Other Tools:** Git, GitHub, Netlify, VS Code  
+
+---
+
+
+## Fun Fact
+
+I'm always experimenting with new design techniques and web development frameworks.  
+I love turning creative ideas into functional, user-friendly websites.  
+Whether it's learning a new coding language or exploring the latest design trends,  
+I'm always excited to expand my skills and push my boundaries!
+
+---
+
+✨ Feel free to explore my repositories, and don’t hesitate to reach out if you have any questions or collaboration ideas.  
 
 
 ## 🌐 Socials:
