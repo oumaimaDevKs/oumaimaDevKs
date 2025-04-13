@@ -1,4 +1,4 @@
-# Hi there, I'm Oumaima 👋
+# Hi there, I'm Oumaima 🎀
 
 I'm a **Web Development** and **Graphic Design** student, passionate about **digital creation** and learning new technologies. I'm excited to combine my design skills with coding to build beautiful and functional websites.
 
